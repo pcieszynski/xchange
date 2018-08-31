@@ -6,7 +6,11 @@
 	<groupId>com.ender.xchange</groupId>
 	<artifactId>xchange</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<modules>
+		<module>xchange-data</module>
+		<module>xchange-web</module>
+	</modules>
+	<packaging>pom</packaging>
 
 	<name>xchange</name>
 	<description>Demo project for Spring Boot</description>
