@@ -1,0 +1,5 @@
+com\ender\xchange\model\Broker.class
+com\ender\xchange\model\Client.class
+com\ender\xchange\model\Wallet.class
+com\ender\xchange\model\CurrencyType.class
+com\ender\xchange\model\Currency.class
